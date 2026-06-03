@@ -20,3 +20,7 @@ Develop a keyboard event monitoring application that captures and logs keys ente
 ## Outcome
 
 Successfully implemented a keyboard event monitoring application that demonstrates keyboard event handling and file logging while operating only within the application's own interface.
+
+## Output Screenshot
+
+![Project Output](keylogger_screenshot.png)
