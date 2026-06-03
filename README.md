@@ -59,34 +59,14 @@ Tkinter (GUI Development)
 File Handling (Read/Write Operations)
 Basic Cryptography Concepts
 Git & GitHub for version control
-📂 Repository Structure
-SkillCraft-Internship/
-│
-├── Task-01-Caesar-Cipher/
-│   ├── caesar_cipher.py
-│   └── README.md
-│
-├── Task-02-Image-Encryption/
-│   ├── image_encryption.py
-│   └── README.md
-│
-├── Task-03-Keylogger/
-│   ├── keylogger.py
-│   └── README.md
-│
-├── Task-04-Keyboard-Event-Monitor/
-│   ├── keyboard_event_monitor.py
-│   ├── screenshot.png
-│   └── README.md
-│
-└── README.md
-📸 Output Documentation
+
 
 Each task folder contains:
 
 Source code
 README explanation 
 Screenshots demonstrating successful execution (where applicable)
+
 💡 Key Outcomes
 
 By completing this internship, I gained:
